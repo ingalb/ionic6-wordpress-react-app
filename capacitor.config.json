@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "wordpress-ionic6-react",
+  "appName": "WP-Ionic-Demo",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
